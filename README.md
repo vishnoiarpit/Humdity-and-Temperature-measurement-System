@@ -1,1 +1,1 @@
-# Humididty and Temperature measurement System 
+# Humidity and Temperature measurement System 
